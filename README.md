@@ -1,4 +1,6 @@
 # modal-project
+This is for a project for a class I'm taking on Vue CLI
+
 
 ## Project setup
 ```
